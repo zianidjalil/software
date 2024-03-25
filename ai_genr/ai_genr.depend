@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1709411164 source:e:\3ème année\2eme semestre\it\c++\scripts\ai_genr\main.cpp
+	<iostream>
+	<string>
+	<unordered_map>
+	<cmath>
+	<algorithm>
+
